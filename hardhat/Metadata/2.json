@@ -1,0 +1,12 @@
+{
+  "name": "Market Sentiment #2",
+  "description": "An NFT capturing the stock market sentiment on April 24, 2025.",
+  "image": "ipfs://bafybeiff3spkikgwcwanop2p4knfrubz4xe44yzhgymyrownysuxhmdhcq/dailhouse.jpeg",
+  "animation_url": "ipfs://bafybeiedbnhkfdrgko4fqdhkxa7yqy2rbh2k5ibzfrorxn2qzj3g5zdx5u/dailhouse.mp4",
+  "attributes": [
+    { "trait_type": "Category", "value": "Market Data" },
+    { "trait_type": "Date", "value": "2025-04-24" },
+    { "trait_type": "Existing Home Sales", "value": "Plummet" },
+    { "trait_type": "10 Yr Treasury Bond", "value": "Mortgage Rates" }
+  ]
+}

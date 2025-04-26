@@ -1,0 +1,25 @@
+{
+    "name": "Market Sentiment #1",
+    "description": "An NFT capturing the stock market sentiment on April 23, 2025.",
+    "image": "ipfs://bafybeictnjigasko32lxic4slqnq2qaqo6lmlcpcw7rjoxjp6pns4sbj3m/Mag_7.jpeg"
+    
+,
+    "attributes": [
+      {
+        "trait_type": "Market Mood",
+        "value": "Exuberant"
+      },
+      {
+        "trait_type": "Date",
+        "value": "2025-04-23"
+      },
+      {
+        "trait_type": "Mag 7",
+        "value": "Rallies"
+      },
+      {
+        "trait_type": "Trump Tariffs",
+        "value": "China Reprieve"
+      }
+    ]
+  }
