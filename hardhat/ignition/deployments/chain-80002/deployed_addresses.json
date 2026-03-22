@@ -1,3 +1,6 @@
 {
-  "MarketMoodModule#MarketMood": "0xFd4be49e5D6674D32A33E7f512C651E6EABb731d"
+  "GenieInABottleModule#GenieInABottle": "0x4e624382EB499695b4953b97F0aD5ce574c75A44",
+  "EchoVaultModule#EchoVault": "0xEf03854dCAA625Bc2604414e9c5793D182C17362",
+  "EchoVaultV2Module#EchoVaultV2": "0xbB09043A770f3Bfaa9c641490cbf34195A695061",
+  "EchoVaultV3Module#EchoVaultV3": "0x489fB6682f3b96FDDfe14905a4DDb9098cec84A4"
 }

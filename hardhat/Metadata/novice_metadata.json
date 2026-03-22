@@ -1,0 +1,15 @@
+{
+    "name": "Novice",
+    "description": "Taking the first steps on the Stoic path",
+    "image": "novice.png",
+    "attributes": [
+      {
+        "trait_type": "Stage",
+        "value": "Novice"
+      },
+      {
+        "trait_type": "Required Level",
+        "value": 1
+      }
+    ]
+  }

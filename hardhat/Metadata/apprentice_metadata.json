@@ -1,0 +1,15 @@
+{
+    "name": "Apprentice",
+    "description": "Beginning to grasp key Stoic principles",
+    "image": "apprentice.png",
+    "attributes": [
+      {
+        "trait_type": "Stage",
+        "value": "Apprentice"
+      },
+      {
+        "trait_type": "Required Level",
+        "value": 5
+      }
+    ]
+  }
